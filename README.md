@@ -1,4 +1,2 @@
 # Capstone-Project
-Name of project-Dwello
-Refrence-Redfin(Real-estate website)
-For some animations and backgrounds some help was taken from peers.
+Dwello is a static real estate website built using only HTML and CSS as part of a Semester 1 capstone project. It includes a styled homepage, property listings page, login page, and contact form layout, all designed with a clean and modern interface. Basic responsiveness and aesthetic animations were added to enhance the user experience, and some animation guidance was taken from peers and AI references during development.
