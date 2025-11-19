@@ -1,4 +1,0 @@
-# Capstone-Project
-Dwello is a static real estate website built using only HTML and CSS as part of a Semester 1 capstone project. It includes a styled homepage, property listings page, login page, and contact form layout, all designed with a clean and modern interface. 
-
-For the images to be loaded in for the listings page, please download the images from the image folder.
